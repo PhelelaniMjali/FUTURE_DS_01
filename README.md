@@ -13,6 +13,10 @@ I recently completed a hands-on data analytics project where I built a client-re
 ## Tools Used
     •	Power BI (dashboard & visuals) 
     •	Excel/CSV (data cleaning)
+
+## Dashboard 
+
+
     
 This project strengthened my ability to approach data with a strong business mindset—going beyond numbers to deliver insights that drive real impact. It reflects the kind of analytical value I aim to bring to businesses, startups, and data-driven teams.
 
