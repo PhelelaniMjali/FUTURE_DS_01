@@ -17,7 +17,11 @@ Many businesses have access to data, but often lack clear visibility into what�
     •	Category Performance: Office Supplies and Furniture showed balanced contributions (~25% each) 
     •	Trend Analysis: Revenue fluctuated across months, highlighting opportunities for demand optimization 
     •	Regional Insights: The South region showed strong revenue performance compared to profit 
-These insights can help businesses optimize inventory, focus on high-performing categories, and make more informed strategic decisions.
+
+## Tools Used:
+    •	Power BI (dashboard creation & data visualization) 
+    •	CSV files (data handling & preparation) 
+This project strengthened my ability to think analytically with a business mindset and deliver insights that drive real-world decisions.
 
 
 ## Dashboard 
