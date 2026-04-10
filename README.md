@@ -1,24 +1,28 @@
 #  Business Sales Performance Report
-I recently completed a hands-on data analytics project where I built a client-ready Power BI dashboard and used Excel for data cleaning to analyze Business Sales Performance and uncover actionable insights.
-## Objectives
-    •	Track revenue and profit over time 
-    •	Measure profit margin (business efficiency) 
-    •	Analyze order volume and sales trends 
-    •	Identify top products, categories, and regions 
-## Key Insights
-    •	The business shows strong revenue and consistent order volume 
-    •	Certain products and categories generate most of the profit 
-    •	Sales peak during specific periods, showing high-demand seasons 
-    •	Some regions perform better, offering opportunities for expansion 
-## Tools Used
-    •	Power BI (dashboard & visuals) 
-    •	Excel/CSV (data cleaning)
+I recently completed a project at Future Interns where I built a client-ready Power BI dashboard to analyze business sales performance and uncover actionable insights.
+Many businesses have access to data, but often lack clear visibility into what’s truly driving revenue, profit, and growth. This project focused on bridging that gap by transforming raw sales data into meaningful, decision-ready insights.
+##🔍 Project Focus:
+•	Analyzed revenue trends over time 
+•	Identified top-performing products and categories 
+•	Evaluated regional sales performance 
+•	Designed a clean, interactive, client-ready dashboard 
+##📊 Key Insights & Outcomes:
+•	Total Revenue: 53.14K 
+•	Total Profit: 10.12K 
+•	Profit Margin: 19% 
+•	Total Orders: 214 
+•	Top Category: Technology led in revenue contribution (~49.96%) 
+•	Category Performance: Office Supplies and Furniture showed balanced contributions (~25% each) 
+•	Trend Analysis: Revenue fluctuated across months, highlighting opportunities for demand optimization 
+•	Regional Insights: The South region showed strong revenue performance compared to profit 
+These insights can help businesses optimize inventory, focus on high-performing categories, and make more informed strategic decisions.
+
 
 ## Dashboard 
 <a href = https://github.com/PhelelaniMjali/FUTURE_DS_01/blob/main/Screenshot%202026-04-04%20095543.png>View Dashboard</a>
 
     
-This project strengthened my ability to approach data with a strong business mindset—going beyond numbers to deliver insights that drive real impact. It reflects the kind of analytical value I aim to bring to businesses, startups, and data-driven teams.
+
 
 
 
