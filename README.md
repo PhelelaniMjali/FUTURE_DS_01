@@ -2,13 +2,13 @@
 I recently completed a project at Future Interns where I built a client-ready Power BI dashboard to analyze business sales performance and uncover actionable insights.
 Many businesses have access to data, but often lack clear visibility into what’s truly driving revenue, profit, and growth. This project focused on bridging that gap by transforming raw sales data into meaningful, decision-ready insights.
 
-🔍## Project Focus:
+## Project Focus:
     •	Analyzed revenue trends over time 
     •	Identified top-performing products and categories 
     •	Evaluated regional sales performance 
     •	Designed a clean, interactive, client-ready dashboard 
 
-📊## Key Insights & Outcomes:
+## Key Insights & Outcomes:
     •	Total Revenue: 53.14K 
     •	Total Profit: 10.12K 
     •	Profit Margin: 19% 
