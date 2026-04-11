@@ -9,14 +9,18 @@ Many businesses have access to data, but often lack clear visibility into what�
     •	Designed a clean, interactive, client-ready dashboard 
 
 ## Key Insights & Outcomes:
-    •	Total Revenue: 53.14K 
-    •	Total Profit: 10.12K 
-    •	Profit Margin: 19% 
-    •	Total Orders: 214 
-    •	Top Category: Technology led in revenue contribution (~49.96%) 
-    •	Category Performance: Office Supplies and Furniture showed balanced contributions (~25% each) 
-    •	Trend Analysis: Revenue fluctuated across months, highlighting opportunities for demand optimization 
-    •	Regional Insights: The South region showed strong revenue performance compared to profit 
+    • Total Revenue: 1.10M
+    • Total Profit: 132.52K
+    • Profit Margin: 12%
+    • Total Orders: 5K
+
+    • Top Category: Technology contributed the highest share of revenue (~34.6%), closely followed by Furniture (~34.0%) and Office Supplies (~31.4%)
+
+    • Category Performance: All three categories show relatively balanced contributions, indicating a well-diversified product portfolio
+    
+    • Trend Analysis: Revenue shows an overall upward trend over time, with some fluctuations, suggesting growth with periodic demand variations
+
+    • Regional Insights: West and East regions generate the highest revenue, but profit margins remain comparatively low across all regions, highlighting potential cost         or pricing inefficiencies
 
 ## Tools Used:
     •	Power BI (dashboard creation & data visualization) 
